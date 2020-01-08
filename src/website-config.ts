@@ -50,8 +50,8 @@ export interface WebsiteConfig {
 
 const config: WebsiteConfig = {
   title: 'Tharun Shiv',
-  description: 'Dev Ops Engineer, PhonePe',
-  coverImage: 'img/blog-cover.jpg',
+  description: 'A Blog to quench Programming thirst',
+  coverImage: 'img/blog-cover.png',
   logo: 'img/ghost-logo.png',
   lang: 'en',
   siteUrl: 'https://gatsby-casper.netlify.com',
