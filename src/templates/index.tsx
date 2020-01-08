@@ -110,7 +110,9 @@ const IndexPage: React.FC<IndexProps> = props => {
           content={`${config.siteUrl}${props.data.header.childImageSharp.fluid.src}`}
         />
         {config.facebook && <meta property="article:publisher" content={config.facebook} />}
-        {config.googleSiteVerification && <meta name="google-site-verification" content={config.googleSiteVerification} />}
+        {config.googleSiteVerification && (
+          <meta name="google-site-verification" content={config.googleSiteVerification} />
+        )}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={config.title} />
         <meta name="twitter:description" content={config.description} />
@@ -129,7 +131,7 @@ const IndexPage: React.FC<IndexProps> = props => {
         <meta property="og:image:height" content={height} />
       </Helmet>
       <Wrapper>
-        <header
+        {/* <header
           css={[outer, SiteHeader]}
           style={{
             backgroundImage: `url('${props.data.header.childImageSharp.fluid.src}')`,
@@ -170,7 +172,9 @@ const IndexPage: React.FC<IndexProps> = props => {
         </main>
         {props.children}
         <Pagination currentPage={props.pageContext.currentPage} numPages={props.pageContext.numPages} />
-        <Footer />
+        <Footer /> */}
+        <h3>TharunShiv</h3>
+        <p>Coming Soon...</p>
       </Wrapper>
     </IndexLayout>
   );
@@ -199,9 +203,9 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      sort: { fields: [frontmatter___date], order: DESC },
-      filter: { frontmatter: { draft: { ne: true } } },
-      limit: $limit,
+      sort: { fields: [frontmatter___date], order: DESC }
+      filter: { frontmatter: { draft: { ne: true } } }
+      limit: $limit
       skip: $skip
     ) {
       edges {
