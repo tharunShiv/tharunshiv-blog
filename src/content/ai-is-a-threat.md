@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AI is a threat! Really?… ( Part-1 )'
+title: 'AI is a threat! Really?'
 author: Another Author
 tags: ['AI', 'Machine Learning']
 image: img/ai-a-threat.png
