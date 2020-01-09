@@ -3,7 +3,7 @@ layout: post
 title: '8 Freelancing blunders to avoid'
 author: Another Author
 tags: ['freelancing']
-image: img/freelancing-blunders.png
+image: img/freelancing-blunder.png
 date: '2020-01-08T23:46:37.121Z'
 draft: false
 ---
