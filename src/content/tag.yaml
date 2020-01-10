@@ -1,3 +1,15 @@
 - id: speeches
   description: Some of the greatest words ever spoken.
   image: img/speeches-cover.jpg
+- id: AI
+  description: All you need to know about the current state of the Artificial Intelligence
+  image: img/speeches-cover.jpg
+- id: freelancing
+  description: Tips for freelancing
+  image: img/speeches-cover.jpg
+- id: web development
+  description: Your Web dev knowledge upgraded
+  image: img/speeches-cover.jpg
+- id: programming
+  description: Enhance your Programming knowledge
+  image: img/speeches-cover.jpg

@@ -21,6 +21,14 @@ export interface WebsiteConfig {
    */
   twitter?: string;
   /**
+   * full url, no username
+   */
+  youtube?: string;
+  /**
+   * full url, no username
+   */
+  udemy?: string;
+  /**
    * hide or show all email subscribe boxes
    */
   showSubscribe: boolean;
@@ -55,9 +63,11 @@ const config: WebsiteConfig = {
   logo: 'img/ts-logo-c.png',
   lang: 'en',
   siteUrl: 'https://tharunshiv.com',
-  facebook: 'https://www.facebook.com/',
-  twitter: 'https://twitter.com/',
-  showSubscribe: true,
+  facebook: 'https://www.facebook.com/developertharun',
+  twitter: 'https://twitter.com/followtharun',
+  youtube: 'https://www.youtube.com/channel/UCDvWreVvvAwyoVHXG7QnqRg',
+  udemy: 'https://www.udemy.com/user/tharun-shiv/',
+  showSubscribe: false,
   mailchimpAction:
     'https://twitter.us19.list-manage.com/subscribe/post?u=a89b6987ac248c81b0b7f3a0f&amp;id=7d777b7d75',
   mailchimpName: 'b_a89b6987ac248c81b0b7f3a0f_7d777b7d75',

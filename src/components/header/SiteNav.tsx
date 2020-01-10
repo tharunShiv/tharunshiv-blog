@@ -10,6 +10,8 @@ import Facebook from '../icons/facebook';
 import Twitter from '../icons/twitter';
 import SubscribeModal from '../subscribe/SubscribeOverlay';
 import SiteNavLogo from './SiteNavLogo';
+import YT from '../icons/youtube';
+import Udemy from '../icons/udemy';
 
 const HomeNavRaise = css`
   @media (min-width: 900px) {
@@ -137,15 +139,34 @@ class SiteNav extends React.Component<SiteNavProps> {
               <Link to="/">Home</Link>
             </li>
             <li role="menuitem">
-              <Link to="/about">About</Link>
-            </li>
-            <li role="menuitem">
-              <Link to="/tags/getting-started/">Getting Started</Link>
+              <Link to="/about">About me</Link>
             </li>
           </ul>
         </SiteNavLeft>
         <SiteNavRight>
           <SocialLinks>
+            {config.udemy && (
+              <a
+                css={SocialLink}
+                href={config.udemy}
+                title="Udemy"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <Udemy />
+              </a>
+            )}
+            {config.youtube && (
+              <a
+                css={SocialLink}
+                href={config.youtube}
+                title="Youtube - Being A Pro"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <YT />
+              </a>
+            )}
             {config.facebook && (
               <a
                 css={SocialLink}
