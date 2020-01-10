@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AI is a threat! Really?'
-author: Another Author
+author: Tharun Shiv
 tags: ['AI', 'Machine Learning']
 image: img/ai-a-threat.png
 date: '2020-01-06T23:46:37.121Z'

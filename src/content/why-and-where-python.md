@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Why is everyone behind Python | 3 Major Applications'
-author: Another Author
+author: Tharun Shiv
 tags: ['programming']
 image: img/python-why-where.png
 date: '2020-01-10T23:46:37.121Z'

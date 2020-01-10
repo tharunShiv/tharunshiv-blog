@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PWA | Progressive Web Apps | Pros and Cons'
-author: Another Author
+author: Tharun Shiv
 tags: ['web development']
 image: img/pwa-adv-disadv.png
 date: '2020-01-09T23:46:37.121Z'

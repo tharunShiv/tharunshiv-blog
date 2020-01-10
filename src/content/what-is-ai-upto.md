@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'What is AI up to?'
-author: Another Author
+author: Tharun Shiv
 tags: ['AI', 'Machine Learning']
 image: img/what-is-ai-upto.png
 date: '2020-01-07T23:46:37.121Z'

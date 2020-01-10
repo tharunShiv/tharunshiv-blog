@@ -166,8 +166,6 @@ const IndexPage: React.FC<IndexProps> = props => {
           numPages={props.pageContext.numPages}
         />
         <Footer />
-        <h3>TharunShiv</h3>
-        <p>Coming Soon...</p>
       </Wrapper>
     </IndexLayout>
   );
