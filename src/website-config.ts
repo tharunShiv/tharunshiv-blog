@@ -52,7 +52,7 @@ const config: WebsiteConfig = {
   title: 'Tharun Shiv',
   description: 'A Blog to quench Programming thirst',
   coverImage: 'img/blog-cover.png',
-  logo: 'img/ghost-logo.png',
+  logo: 'img/ts-logo-c.png',
   lang: 'en',
   siteUrl: 'https://gatsby-casper.netlify.com',
   facebook: 'https://www.facebook.com/ghost',

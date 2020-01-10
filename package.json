@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
-    "clean": "rimraf public",
+    "clean": "gatsby clean",
     "dev": "gatsby develop",
     "lint": "eslint src/**/**/*.tsx",
     "lint:fix": "eslint --fix src/**/*/*.tsx",
