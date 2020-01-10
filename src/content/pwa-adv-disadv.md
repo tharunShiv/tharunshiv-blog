@@ -38,7 +38,7 @@ You heard it right, from then onwards when you open a PWA it will act like a mob
 
 ###### 5. Push Notifications
 
-You can do that??? Yup , totally possible.
+Sending notifications to the user phones even when the website is closed. You can do that??? Yup , totally possible.
 
 ###### 6. Very less memory space
 
@@ -50,7 +50,7 @@ Develop a PWA compatible web app and use it on any phone which supports Chrome B
 
 ---
 
-Every coin has another side to it
+Every coin has a flip side to it
 
 ## The Disadvantages
 
@@ -69,6 +69,8 @@ You cannot have a direct pwa at the Play Store or the App store.
 ###### 4. Cannot modify the splash screen that easily
 
 The splash screen that appears when you open the PWA is not customizable out of the box.
+
+###### Also note that you're website must be served through `https` which means you need a SSL certified connection.
 
 ---
 
