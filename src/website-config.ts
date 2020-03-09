@@ -67,10 +67,10 @@ const config: WebsiteConfig = {
   twitter: 'https://twitter.com/followtharun',
   youtube: 'https://www.youtube.com/channel/UCDvWreVvvAwyoVHXG7QnqRg',
   udemy: 'https://www.udemy.com/user/tharun-shiv/',
-  showSubscribe: false,
+  showSubscribe: true,
   mailchimpAction:
-    'https://twitter.us19.list-manage.com/subscribe/post?u=a89b6987ac248c81b0b7f3a0f&amp;id=7d777b7d75',
-  mailchimpName: 'b_a89b6987ac248c81b0b7f3a0f_7d777b7d75',
+    'https://tharunshiv.us4.list-manage.com/subscribe/post?u=cba85fb869dec9d91c150c7b6&amp;id=0be1fc5f57',
+  mailchimpName: 'tharunshiv',
   mailchimpEmailFieldName: 'MERGE0',
   googleSiteVerification: 'GoogleCode',
   footer: 'is based on Gatsby Casper',
