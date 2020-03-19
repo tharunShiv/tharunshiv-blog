@@ -122,3 +122,8 @@ Let's break it down, what does <b>meta</b> mean? Meta means data about data. So 
 #### Where do I learn these?
 
 I have got the exact place where you can learn these from, ask doubts and also get a Certificate on Completetion. Check out this course from Udemy <a href="https://www.udemy.com/course/web-dev-html/?referralCode=1FA3D8CA87D66EE2387A" target="_blank">(Click) Web Development - HTML - The Structure of any Website - FULL</a>. The first few videos are free on my YouTube Channel. Try them out here: <a href="https://www.youtube.com/playlist?list=PLQTwHWAmj18Yn7KKUtyFyj5OUydnomeyf">Being a Pro - YouTube - HTML Playlist</a> Thank you for reading!
+
+        Now you can subscribe to my blog to get the latest posts delivered directly to your inbox.
+
+        Just enter your email below and confirm to subscribe!
+        Get a FREE Ebook from me very soon!

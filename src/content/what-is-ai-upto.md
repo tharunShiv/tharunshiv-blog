@@ -41,3 +41,8 @@ Behavioural insights are meaningless without understanding their emotional impac
 These are just a very few applications of AI. Than debating that it is bad, we can use AI constructively towards development purposes.
 
 Have a great day ahead!
+
+        Now you can subscribe to my blog to get the latest posts delivered directly to your inbox.
+
+        Just enter your email below and confirm to subscribe!
+        Get a FREE Ebook from me very soon!

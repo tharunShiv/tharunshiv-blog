@@ -50,3 +50,8 @@ Spend some time in registering in a few reliable Freelancing websites.
 
 These are some most unnoticed mistakes that we do. So stay safe and don’t waste your valuable talent and time.
 Have a great Day!!
+
+        Now you can subscribe to my blog to get the latest posts delivered directly to your inbox.
+
+        Just enter your email below and confirm to subscribe!
+        Get a FREE Ebook from me very soon!

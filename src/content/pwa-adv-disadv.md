@@ -79,3 +79,9 @@ The splash screen that appears when you open the PWA is not customizable out of 
 - PWAs are always going to be a great technologies. It has just begun it’s journey and it has a huge way to go.
 - It is now being served as a cheaper option than a native app , where you need an app to have minimal animation and native api support.
 - New Inventions are going to be seen. Until then try to gain the PWA knowledge.
+
+
+        Now you can subscribe to my blog to get the latest posts delivered directly to your inbox.
+
+        Just enter your email below and confirm to subscribe!
+        Get a FREE Ebook from me very soon!

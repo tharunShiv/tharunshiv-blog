@@ -36,3 +36,8 @@ Just to be on point, let us see the stuff that AI has achieved so far,
 6. _Medicine and Bio-technology_ : Yes, AI models are used to simulate the effects due to the combination of various chemicals, which inturn could be used to cure diseases. The feat which would take humans decades could be predicted within minutes with a trained model.
 
 These are just an abstract of few stuff which AI could perform.
+
+        Now you can subscribe to my blog to get the latest posts delivered directly to your inbox.
+
+        Just enter your email below and confirm to subscribe!
+        Get a FREE Ebook from me very soon!

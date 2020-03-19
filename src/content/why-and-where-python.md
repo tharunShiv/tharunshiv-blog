@@ -83,3 +83,8 @@ Lets look at examples,
 So these are the most Popular uses of Python and Probably the reasons why Python is popular today. Some of my views may differ from yours which is totally fine. At the end of the day, Every Language has its own purpose out there
 
 Just choose the appropriate programming language for your application based on how the application is going to perform and it's domain requirements. No programming language is better than others, each one have their purpose.
+
+        Now you can subscribe to my blog to get the latest posts delivered directly to your inbox.
+
+        Just enter your email below and confirm to subscribe!
+        Get a FREE Ebook from me very soon!
