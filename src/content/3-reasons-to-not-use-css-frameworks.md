@@ -3,7 +3,7 @@ layout: post
 title: "3 reasons why you shouldn't use CSS Frameworks"
 author: Tharun Shiv
 tags: ['web development']
-image: img/3-reasons-css-frameworks.jpg
+image: img/3-reasons-css-frameworks.png
 date: '2020-03-16T23:46:37.121Z'
 draft: false
 ---

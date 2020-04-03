@@ -3,7 +3,7 @@ layout: post
 title: '5 main topics in HTML that you should know'
 author: Tharun Shiv
 tags: ['web development']
-image: img/5-things-html.jpg
+image: img/5-things-html.png
 date: '2020-03-08T23:46:37.121Z'
 draft: false
 ---

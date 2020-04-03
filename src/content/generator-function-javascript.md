@@ -3,7 +3,7 @@ layout: post
 title: '4 ways to use Generator Functions | Examples | Advantages'
 author: Tharun Shiv
 tags: ['web development']
-image: img/generator-functions.jpg
+image: img/generator-functions.png
 date: '2020-04-02T23:46:37.121Z'
 draft: false
 ---
