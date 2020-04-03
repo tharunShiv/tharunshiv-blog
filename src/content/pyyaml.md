@@ -1,10 +1,10 @@
 ---
 layout: post
-title: '4 ways to use Generator Functions | Examples | Advantages'
+title: 'YAML Tutorial | Using YAML With Python | PyYAML'
 author: Tharun Shiv
 tags: ['web development']
 image: img/generator-functions.png
-date: '2020-04-02T23:46:37.121Z'
+date: '2020-04-05T23:46:37.121Z'
 draft: false
 ---
 
@@ -27,7 +27,7 @@ A Generator function returns us an iterator, which can be used to stop the funct
 
 <h3 id='function'>Recap: What is a Function? </h3>
 
-A function is a block of code that can be called any number of times to get the functionality done and sometimes the result returned.
+A function is a block of code that can be called any number of times to get the functionlaity done and sometimes the result returned.
 
 <h3 id='how-it-works'> How does it Work? </h3>
 
@@ -48,7 +48,7 @@ The `value` here is the value sent by the `yield` and the `done`indicates if the
 
 ###### 1. Basic usage of Generator Function
 
-Generator functions are defined using the `*` asterisk either immediately after the function keyword or right before the function name. The below example creates an infinite number of natural numbers, which can be used when needed.
+Generator functions are defined using the `*` asterisk either immediately after the function keyword or right before the function name. The below example creates an infinie number of natural numbers, which can be used when needed.
 
     function* naturalNumbers() {
         let number=1;
@@ -146,7 +146,7 @@ The output is given below. You cannot `yield` the "unreachable".
 
 <h3 id='pros'> Advantages of using Generators? Why Should you use them? </h3>
 
-###### 1. Lazy Evaluation - Run only when you need
+###### 1. Lazy Evaulation - Run only when you need
 
 Say there is an Infinite Stream of data, we cannot spend our whole life evaluating that data. Hence we can use Generator function to evaluate as and when required.
 
@@ -156,7 +156,7 @@ As the Lazy Evaluation method is used, only those data and those computations th
 
 ##### Where do I learn these?
 
-**I have got the exact place where you can learn these from, ask doubts and also get a Certificate on Completion. Check out this course from Udemy <a href="https://www.udemy.com/course/javascript-tharunshiv/?referralCode=6326CE49CCF4074B11CE" target="_blank">(Click) JavaScript Modern ES6 - 2020 - The Complete Course - Udemy</a>. The first few videos are free on my YouTube Channel. Try them out here: <a href="https://www.youtube.com/playlist?list=PLQTwHWAmj18Y2dfj-8PkIogD9hrBzp4M9">Being a Pro - YouTube - JavaScript Playlist</a> Thank you for reading!**
+**I have got the exact place where you can learn these from, ask doubts and also get a Certificate on Completetion. Check out this course from Udemy <a href="https://www.udemy.com/course/javascript-tharunshiv/?referralCode=6326CE49CCF4074B11CE" target="_blank">(Click) JavaScript Modern ES6 - 2020 - The Complete Course - Udemy</a>. The first few videos are free on my YouTube Channel. Try them out here: <a href="https://www.youtube.com/playlist?list=PLQTwHWAmj18Y2dfj-8PkIogD9hrBzp4M9">Being a Pro - YouTube - JavaScript Playlist</a> Thank you for reading!**
 
         Now you can subscribe to my blog to get the latest posts delivered directly to your inbox.
 
