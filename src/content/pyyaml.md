@@ -251,7 +251,7 @@ The same config file can be used for any programming language without modificati
 Just by changing the values in one YAML file, it will get reflected in the program, thus need not go through the pain of changing values everywhere in the program, or search for the variable in the program that holds this value.
 
 <h3 id='pros'> Have a JSON file and wanna convert to YAML? </h3>
-Check out this website where you can convert JSON into YAML : [https://www.json2yaml.com/]([https://www.json2yaml.com/)
+Check out this website where you can convert JSON into YAML : <a href="https://www.json2yaml.com/">JSON to YAML - online convertor</a>
 
 ##### Bonus: Where do I learn JavaScript?
 
