@@ -11,7 +11,7 @@ draft: false
 In this Article (Click to skip to that topic):
 
 - [YAML: What is it?](#what-is-yaml)
-- [Why do you need a YAML?](#why-yaml)
+- [Why do you need YAML?](#why-yaml)
 - [How to use PyYAML to use YAML Files?](#how-it-works)
 - [Advantages of using YAML and PyYAML function](#pros)
 - [Convert JSON to YAML in one click](#json)
