@@ -253,9 +253,13 @@ Just by changing the values in one YAML file, it will get reflected in the progr
 <h3 id='json'> Have a JSON file and wanna convert to YAML? </h3>
 Check out this website where you can convert JSON into YAML : <a href="https://www.json2yaml.com/">JSON to YAML - online convertor</a>
 
+<br/>
+
 ##### Bonus: Where do I learn JavaScript?
 
 **JavaScript is THE Language right now, with thousands of high paid job and internship opportunities. I have got the exact place where you can learn The Modern JavaScript from, ask doubts and also get a Certificate on Completetion. Check out this course from Udemy <a href="https://www.udemy.com/course/javascript-tharunshiv/?referralCode=6326CE49CCF4074B11CE" target="_blank">(Click) JavaScript Modern ES6 - 2020 - The Complete Course - Udemy</a>. The first few videos are free on my YouTube Channel. Try them out here: <a href="https://www.youtube.com/playlist?list=PLQTwHWAmj18Y2dfj-8PkIogD9hrBzp4M9">Being a Pro - YouTube - JavaScript Playlist</a> Thank you for reading!**
+
+<br/>
 
         Now you can subscribe to my blog to get the latest posts delivered directly to your inbox.
 
