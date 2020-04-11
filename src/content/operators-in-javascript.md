@@ -1,20 +1,12 @@
 ---
 layout: post
-title: 'YAML Tutorial | Using YAML With Python | PyYAML'
+title: '7 Bitwise Operators in JavaScript you never knew about'
 author: Tharun Shiv
 tags: ['web development']
 image: img/generator-functions.png
 date: '2020-04-05T23:46:37.121Z'
 draft: true
 ---
-
-In this Article (Click to skip to that topic):
-
-- [Generator Functions](#what-is-gf-now)
-- [Recap: Functions](#function)
-- [How does it work?](#how-it-works)
-- [4 ways to use Generator Functions with Examples](#examples)
-- [Advantages of using Generator function](#pros)
 
 <h3 id='what-is-gf-now'> What are Generator Functions? </h3>
 
