@@ -2,161 +2,260 @@
 layout: post
 title: 'YAML Tutorial | Using YAML With Python | PyYAML'
 author: Tharun Shiv
-tags: ['web development']
-image: img/generator-functions.png
-date: '2020-04-05T23:46:37.121Z'
-draft: true
+tags: ['programming']
+image: img/pyyaml.png
+date: '2020-04-10T23:46:37.121Z'
+draft: false
 ---
 
 In this Article (Click to skip to that topic):
 
-- [Generator Functions](#what-is-gf-now)
-- [Recap: Functions](#function)
-- [How does it work?](#how-it-works)
-- [4 ways to use Generator Functions with Examples](#examples)
-- [Advantages of using Generator function](#pros)
+- [YAML: What is it?](#what-is-yaml)
+- [Why do you need a YAML?](#why-yaml)
+- [How to use PyYAML to use YAML Files?](#how-it-works)
+- [Advantages of using YAML and PyYAML function](#pros)
+- [Convert JSON to YAML in one click](#json)
 
-<h3 id='what-is-gf-now'> What are Generator Functions? </h3>
+<h3 id='what-is-yaml'> What is YAML? </h3>
 
-_Ever imagined what would happen if a function had an infinite input or output to deal with? That is exactly what you can handle with Generator functions._
+_What if you had a very easy, simple, readable way to feed data dynamically to your program, regardless of the programming language using which it is written?? All of this by just writing a file with no programming knowledge?_
 
-A Generator function returns us an iterator, which can be used to stop the function in the middle, do something, and then resume it whenever. A normal function starts executing and returns when the function completes, but a Generator function can be stopped any number of times and resumed later.
+**YAML: YAML Ain't Markup Language**. YAML is a human friendly way to send data such as configuration data to your program. Just by editing the YAML file, the program will be able to read the values from the YAML File and use it.
+
+_Ever used JSON files? YAML can be considered a more readable version of JSON files._
+
+<br/>
 
     Want to learn Modern JavaScript ES6 - 2020??
     Scroll to the end of the post
 
-<h3 id='function'>Recap: What is a Function? </h3>
+<br/>
+<h3 id='why-yaml'> Why do you need a YAML File? </h3>
 
-A function is a block of code that can be called any number of times to get the functionlaity done and sometimes the result returned.
+Consider this situation. You have a program which installs a set of softwares onto your computer. This program can be used on many computers. Let us assume that, these are the computer specific data that is necessary to run the program on the computer:
 
-<h3 id='how-it-works'> How does it Work? </h3>
+1. This Computer's username
+2. This Computer's password
+3. The path in which the softwares must be installed in
+4. The specific set of softwares that has to be installed in this partiular computer
 
-1. Calling a Generator function does not execute the function completely as soon as its called. It will return an **iterator** object that can be used to use the function.
-2. So this function can be executed part by part, where these parts are decided by the `yield` expression. ( Code explanation below, don't worry ).
-3. To execute these parts, the `.next()` method is used on the iterator. When the `.next()` method is called, the function resumes execution until the next `yield` is found, or the function completes or a `return` statement is executed.
-4. Everytime you execute the `.next()` method, the generator function returns you with an object that looks like this
-   {
-   value: 'some-value',
-   done: false
-   }
+If you were using the usual programming way of doing this, you would either
 
-The `value` here is the value sent by the `yield` and the `done`indicates if the generator function has run completely.
+- Take in the inputs through some command line arguments ( which is difficult for non programmers to use )
+- Change the code everytime you run on different machines ( that isn't a good way at all )
 
-<h3 id='examples'> Examples </h3>
+So what if I told you, you can have a text file, which is human readable, independent of the programming language that you are using, win which you can just fill in the above 4 data according to the computer, and the program will take care of the rest?
+That is exactly what YAML helps you with.
+
+<h3 id='how-it-works'> Creating your first YAML File </h3>
+
+**Step 1:** Create a file by any name, say `config.yaml`. Make sure to use the extension `.yaml` to the file.<br/>
+**Step 2:** A YAML file should start with the `---` like
+
+    ---
+    # YAML files start with ---
+    # comments begin with a #
+    # and they can be written anywhere
+
+**Step 3:** You can have the **keys** in the YAML file, which may or may not hold any values in them. Below we have keys such as username, password, path, VLC Media Player etc., which we can use later in the program to grab their respective values.
+
+    ---
+    username: Shiv
+    password: shiv@456
+
+Note: YAML is case sensitive.
+
+**Step 4:** You can have a list of items under a key, even nest them further
+
+    ---
+    username: Shiv
+    password: shiv@456
+    path:
+        - VLC Media Player: /etc/vlc
+        - Visual Studio Code: /etc/vscode
+        - Google Chrome: /etc/chrome
+    softwares:
+        - VLC Media Player
+        - Visual Studio Code
+        - Google Chrome
+        - Git Bash
+        - Video Convertor
+        - Node Js
+
+So using the YAML syntax, we have easily listed the data we will need, to feed to our application.
+
+**Step 5**: Now just save this file as `config.yaml`
+
+<h3 id='examples'> How to use PyYAML to use YAML Files? </h3>
+
+Now we have the `config.yaml`, all that we have to do is use it in our program. Say you are writing a Python program that uses this config file and installs the software. We will have to use a python package called **PyYaml**.
+
+**Step 1:** Install pip ( Install Python from their website first if you don't have it )
+
+- Download [get-pip.py](https://bootstrap.pypa.io/get-pip.py) to a folder on your computer.
+- Open a command prompt and navigate to the folder containing get-pip.py.
+- Run the following command:
+
+  `python3 get-pip.py`
+
+- Pip is now installed!
+
+**Step 2:** Install PyYaml package now
+
+`pip3 install pyyaml`
+
+**Step 3:** Create a new Python File and open it - say `test.py` and add the following code to it, where we import using PyYAML
+
+    import yaml     # import pyyaml package
+
+    # open the yaml file and load it into data
+
+    with open('config.yaml') as f:
+        data = yaml.load(f, Loader=yaml.FullLoader)
+        print(data)
+
+Output:
+
+    {
+        'username': 'Shiv',
+        'path': [
+            {'VLC Media Player': '/etc/vlc'},
+            {'Visual Studio Code': '/etc/vscode'},
+            {'Google Chrome': '/etc/chrome'}
+        ],
+        'password': 'shiv@456',
+        'softwares': [
+            'VLC Media Player',
+            'Visual Studio Code',
+            'Google Chrome',
+            'Git Bash',
+            'Video Convertor',
+            'Node Js'
+        ]
+    }
+
+**Step 4:** Let us try to pick what we need from the config file
+
+    from __future__ import print_function
+    import yaml
+
+    with open('config.yaml') as f:
+        data = yaml.load(f, Loader=yaml.FullLoader)
+
+        username = data['username']
+        password = data['password']
+
+        # printing the username
+        print("The username is ", username)
+        print("The password is ", password)
+
+Output:
+
+    The username is Shiv
+    The password is shiv@456
+
+Here we have grabbed the username and password from the data. Next, let us grab the software list from the config file.
+
+**Step 5:** Grabbing the software list
+
+    from __future__ import print_function
+    import yaml
+
+    with open('config.yaml') as f:
+        data = yaml.load(f, Loader=yaml.FullLoader)
+
+        username = data['username']
+        password = data['password']
+        path_list = data['path']
+        software_list = data['softwares']
+
+        # printing the username
+        print("The username is ", username)
+        print("The password is ", password)
+
+        # the software list
+        for software in software_list:
+            print("Installing ", software, "...")
+
+Output:
+
+    The username is  Shiv
+    The password is  shiv@456
+    Installing  VLC Media Player ...
+    Installing  Visual Studio Code ...
+    Installing  Google Chrome ...
+    Installing  Git Bash ...
+    Installing  Video Convertor ...
+    Installing  Node Js ...
+
+Since the softwares are stored in a list, we can easily run a for loop and grab each software in the software variable and print it.
+
+**Step 6:** Printing the paths where each software must be installed
+
+Now, this isn't complex, so just analyze it. We are first looping over the list of items in the `path_list`, and then for each of those list item, say `{'VLC Media Player': '/etc/vlc'}`, we will now loop over softwares in the `software_list` to find if the software matches the key of this list item, so if 'VLC Media Player' from the `path_list` matches the 'VLC Media Player' from the `software_list`, then it prints the path of it. ( Read and analyze it again if you didn't get it, you will get it for sure. )
+
+    from __future__ import print_function
+    import yaml
+
+    with open('config.yaml') as f:
+        data = yaml.load(f, Loader=yaml.FullLoader)
+
+        username = data['username']
+        password = data['password']
+        path_list = data['path']
+        software_list = data['softwares']
+
+        # printing the username
+        print("The username is ", username)
+        print("The password is ", password)
+
+        # the paths are
+        for path_dictionary in path_list:
+            for software in software_list:
+                if software in path_dictionary:
+                    print("Install ",software," in ",path_dictionary[software])
+
+
+        # the software list
+        for software in software_list:
+            print("Installing ", software, "...")
+
+Output: ( drum rolls please....)
+
+    The username is  Shiv
+    The password is  shiv@456
+    Install  VLC Media Player  in  /etc/vlc
+    Install  Visual Studio Code  in  /etc/vscode
+    Install  Google Chrome  in  /etc/chrome
+    Installing  VLC Media Player ...
+    Installing  Visual Studio Code ...
+    Installing  Google Chrome ...
+    Installing  Git Bash ...
+    Installing  Video Convertor ...
+    Installing  Node Js ...
 
 <br/>
 
-###### 1. Basic usage of Generator Function
+<h3 id='pros'> Advantages of using YAML and PyYAML? Why Should you use them? </h3>
 
-Generator functions are defined using the `*` asterisk either immediately after the function keyword or right before the function name. The below example creates an infinie number of natural numbers, which can be used when needed.
+###### 1. Readable and easy to write
 
-    function* naturalNumbers() {
-        let number=1;
-        while (true)
-            yield number++;
-    }
+The YAML file is easy to read as it doesn't contain any extra symbols other than the essential colons and spaces
 
-    var naturalNumberIterator = naturalNumbers();
+###### 2. Write once, use everywhere
 
-    console.log(naturalNumberIterator.next().value);
-    console.log(naturalNumberIterator.next().value);
-    console.log(naturalNumberIterator.next().value);
-    console.log(naturalNumberIterator.next().value);
+The same config file can be used for any programming language without modifications.
 
-The output for the above code:
+###### 3. Change values easily
 
-    1
-    2
-    3
-    4
+Just by changing the values in one YAML file, it will get reflected in the program, thus need not go through the pain of changing values everywhere in the program, or search for the variable in the program that holds this value.
 
-<br/>
+<h3 id='pros'> Have a JSON file and wanna convert to YAML? </h3>
+Check out this website where you can convert JSON into YAML : [https://www.json2yaml.com/]([https://www.json2yaml.com/)
 
-###### 2. Calling Generator within a Generator (wooo... inception)
+##### Bonus: Where do I learn JavaScript?
 
-We can use the `yield*` to call another generator from within a generator. _( Crazy right? )_
-
-    function *anotherGenerator(name) {
-        yield `From Another Generator, ${name}`
-    }
-
-    function *myGenerator(name) {
-        yield `Hi ${name}`;
-        yield* anotherGenerator(name)
-        yield 'Bye!'
-    }
-
-    let gen = myGenerator('shiv')
-    console.log(gen.next().value);
-    console.log(gen.next().value);
-    console.log(gen.next().value);
-
-The output for the above code:
-
-    Hi shiv
-    From Another Generator, shiv
-    Bye!
-
-<br/>
-
-###### 3. Passing arguments into Generators
-
-Wonder what else the Generators could do? What if I told you that you can pass arguments into Generators? Again, just pass the parameters in the `.next()` and use it in the `yield` keyword inside the Generator function. Below is an demonstrated example of it.
-
-    function *myGenerator() {
-        console.log('Hey ', yield)
-        console.log('Are you ',yield)
-    }
-
-    let gen = myGenerator()
-
-    gen.next()
-    gen.next('tharun')
-    gen.next('shiv')
-
-Note that, you have to call `.next()` method once in the beginning, which will execute the function until the yield keyword. The next `.next('tharun')` will send the `'tharun'` to the Generator and is replaced in place of yield. Below is the output of the program.
-
-    Hey tharun
-    Are you shiv
-
-<br/>
-
-###### 4. Once returned, no more yields
-
-Wonder what would happen if you execute a `return` statement inside a generator? Well, I have demonstrated just that in the below example. It returns from the generator function without providing access to any of the `yield` below.
-
-    function* yieldAndReturn() {
-    yield "Y";
-    return "R";
-    yield "unreachable";
-    }
-
-    var gen = yieldAndReturn()
-    console.log(gen.next());
-    console.log(gen.next());
-    console.log(gen.next());
-
-The output is given below. You cannot `yield` the "unreachable".
-
-    {"value":"Y","done":false}
-    {"value":"R","done":true}
-    {"done":true}
-
-<br/>
-
-<h3 id='pros'> Advantages of using Generators? Why Should you use them? </h3>
-
-###### 1. Lazy Evaulation - Run only when you need
-
-Say there is an Infinite Stream of data, we cannot spend our whole life evaluating that data. Hence we can use Generator function to evaluate as and when required.
-
-###### 2. Memory Efficient
-
-As the Lazy Evaluation method is used, only those data and those computations that are necessary, are used.
-
-##### Where do I learn these?
-
-**I have got the exact place where you can learn these from, ask doubts and also get a Certificate on Completetion. Check out this course from Udemy <a href="https://www.udemy.com/course/javascript-tharunshiv/?referralCode=6326CE49CCF4074B11CE" target="_blank">(Click) JavaScript Modern ES6 - 2020 - The Complete Course - Udemy</a>. The first few videos are free on my YouTube Channel. Try them out here: <a href="https://www.youtube.com/playlist?list=PLQTwHWAmj18Y2dfj-8PkIogD9hrBzp4M9">Being a Pro - YouTube - JavaScript Playlist</a> Thank you for reading!**
+**JavaScript is THE Language right now, with thousands of high paid job and internship opportunities. I have got the exact place where you can learn The Modern JavaScript from, ask doubts and also get a Certificate on Completetion. Check out this course from Udemy <a href="https://www.udemy.com/course/javascript-tharunshiv/?referralCode=6326CE49CCF4074B11CE" target="_blank">(Click) JavaScript Modern ES6 - 2020 - The Complete Course - Udemy</a>. The first few videos are free on my YouTube Channel. Try them out here: <a href="https://www.youtube.com/playlist?list=PLQTwHWAmj18Y2dfj-8PkIogD9hrBzp4M9">Being a Pro - YouTube - JavaScript Playlist</a> Thank you for reading!**
 
         Now you can subscribe to my blog to get the latest posts delivered directly to your inbox.
 
