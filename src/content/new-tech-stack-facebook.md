@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '9 things to learn from Facebook's New Tech Stack - 2020 in terms of Atomic CSS & JavaScript'
+title: '9 things to learn from Facebooks New Tech Stack - 2020 - Atomic CSS & JavaScript'
 author: Tharun Shiv
 tags: ['web development']
 image: img/19.png
