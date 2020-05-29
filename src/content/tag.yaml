@@ -13,3 +13,6 @@
 - id: programming
   description: Enhance your Programming knowledge
   image: img/speeches-cover.jpg
+- id: podcast
+  description: Listen to podcast that help you enhance your programming
+  image: img/speeches-cover.jpg
