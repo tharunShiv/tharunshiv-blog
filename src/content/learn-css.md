@@ -41,3 +41,5 @@ https://tharunshiv.com/learn-javascript
 ## Find free videos on web development on my YouTube Channel
 
 https://youtube.com/c/developerTharun
+
+> Follow my articles on Dev.to: https://dev.to/tharunshiv

@@ -4,7 +4,7 @@ title: 'Stick-it Notes PWA - do you like it? [ webapp + code ]'
 author: Tharun Shiv
 tags: ['web development']
 image: img/18.png
-date: '2020-05-18T23:46:37.121Z'
+date: '2020-05-19T23:47:37.121Z'
 draft: false
 ---
 
@@ -38,3 +38,5 @@ Also feel free to share the websites and PWAs which you have published.
 
 An article by
 Tharun Shiv
+
+> Follow my articles on Dev.to: https://dev.to/tharunshiv

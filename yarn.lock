@@ -5175,6 +5175,11 @@ dir-glob@^3.0.1:
   dependencies:
     path-type "^4.0.0"
 
+disqus-react@^1.0.8:
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/disqus-react/-/disqus-react-1.0.8.tgz#df3999e7dd107a24ea0862c4f592e05ab7d8bdb5"
+  integrity sha512-fkDL6XVGteaxTwz8aN+n89iyMv1BPKKKO3v8YJCcNaJfhoKY/f6MSiqMqu1rNrbAkyxQ2VjF7C/2mPpPAElozg==
+
 dns-equal@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/dns-equal/-/dns-equal-1.0.0.tgz#b39e7f1da6eb0a75ba9c17324b34753c47e0654d"
@@ -6854,11 +6859,6 @@ gatsby-plugin-canonical-urls@2.1.2:
   integrity sha512-QfMy9gsTjLwdayxCLWUkwdiWkG82vBxvOUEOqfW6Wmw8aTyWOQ66ZnxizBgRzivJ0mboT+EW7WEBW/HvlOOzdw==
   dependencies:
     "@babel/runtime" "^7.0.0"
-
-gatsby-plugin-disqus@^1.1.7:
-  version "1.1.7"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-disqus/-/gatsby-plugin-disqus-1.1.7.tgz#66910da8be1219ab861ac96400edbed5abe33812"
-  integrity sha512-7gAoSdXzFtVJ5TjTYJv/crgq8wfKavRIxhd2UHTgsbzp3EOwqygs7u1hiko2BwGFROjmmhzkdRqCquKdo7oywg==
 
 gatsby-plugin-emotion@4.1.2:
   version "4.1.2"

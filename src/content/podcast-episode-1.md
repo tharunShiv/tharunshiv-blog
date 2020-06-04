@@ -22,3 +22,5 @@ Most of us want to achieve big in our life, how 'big' that is, is debatable and 
 - What should you be cautious about?
 
 Hope you like this podcast, This is Tharun Shiv, and you're listening to my podcast. Thanks for listening.
+
+> Follow my articles on Dev.to: https://dev.to/tharunshiv

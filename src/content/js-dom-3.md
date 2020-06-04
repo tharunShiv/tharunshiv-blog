@@ -74,5 +74,7 @@ https://tharunshiv.com/js-dom-4
 Thank you for reading 😊
 **Considering Subscribing to my YouTube Channel if you like the Video content: https://youtube.com/c/developerTharun**
 
+> Follow my articles on Dev.to: https://dev.to/tharunshiv
+
 Written by,
 Tharun Shiv

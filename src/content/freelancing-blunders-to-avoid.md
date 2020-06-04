@@ -8,6 +8,8 @@ date: '2020-01-08T23:46:37.121Z'
 draft: false
 ---
 
+> Follow my articles on Dev.to: https://dev.to/tharunshiv
+
 ## What is Freelancing???
 
 To be brief, It is a Job where you are the boss and you take projects directly from the client and do the majority of the work yourself. You mostly work alone on the project. You get paid for the projects which you work on.

@@ -4,9 +4,11 @@ title: '9 things to learn from Facebooks New Tech Stack - 2020 - Atomic CSS & Ja
 author: Tharun Shiv
 tags: ['web development']
 image: img/19.png
-date: '2020-05-21T23:46:37.121Z'
+date: '2020-05-21T23:48:37.121Z'
 draft: false
 ---
+
+> Follow my articles on Dev.to: https://dev.to/tharunshiv
 
 # Looking back at the early Facebook
 

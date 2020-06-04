@@ -35,8 +35,10 @@ So this is how the DOM Tree would look like for the example HTML Code
 
 We will learn more about each one of these in this series.
 
-_Part 2 coming tomorrow_
+_Part 2_
 
 https://tharunshiv.com/js-dom-2
 
-Written by Tharun Shiv
+> Follow my articles on Dev.to: https://dev.to/tharunshiv
+
+> Written by Tharun Shiv
