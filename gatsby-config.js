@@ -89,12 +89,6 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-disqus`,
-      options: {
-        shortname: `tharunshiv`,
-      },
-    },
-    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Tharun Shiv - Blog`,

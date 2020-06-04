@@ -20,7 +20,6 @@ import IndexLayout from '../layouts';
 import { colors } from '../styles/colors';
 import { inner, outer, SiteHeader, SiteMain } from '../styles/shared';
 import config from '../website-config';
-import { Disqus, CommentCount } from 'gatsby-plugin-disqus';
 
 const PostTemplate = css`
   .site-main {
@@ -210,11 +209,6 @@ const PageTemplate: React.FC<PageTemplateProps> = (props) => {
   const post = props.data.markdownRemark;
   let width = '';
   let height = '';
-  let disqusConfig = {
-    url: `${config.siteUrl + location.pathname}`,
-    identifier: post.frontmatter.author.id,
-    title: post.frontmatter.title,
-  };
   if (post.frontmatter.image && post.frontmatter.image.childImageSharp) {
     width = post.frontmatter.image.childImageSharp.fluid.sizes.split(', ')[1].split('px')[0];
     height = String(Number(width) / post.frontmatter.image.childImageSharp.fluid.aspectRatio);
@@ -311,11 +305,9 @@ const PageTemplate: React.FC<PageTemplateProps> = (props) => {
                   />
                 </PostFullImage>
               )}
-              {/**Disqus comment count */}
-              <CommentCount config={disqusConfig} placeholder={'...'} />
+
               <PostContent htmlAst={post.htmlAst} />
-              {/**Disqus comments */}
-              <Disqus config={disqusConfig} />
+
               {/* The big email subscribe modal content */}
               {config.showSubscribe && <Subscribe title={config.title} />}
 
