@@ -67,9 +67,9 @@ const config: WebsiteConfig = {
   twitter: 'https://twitter.com/followtharun',
   youtube: 'https://www.youtube.com/channel/UCDvWreVvvAwyoVHXG7QnqRg',
   udemy: 'https://www.udemy.com/user/tharun-shiv/',
-  showSubscribe: false,
+  showSubscribe: true,
   mailchimpAction:
-    'https://tharunshiv.us4.list-manage.com/subscribe/post?u=cba85fb869dec9d91c150c7b6&amp;id=0be1fc5f57',
+    'https://tharunshiv.us4.list-manage.com/subscribe/post?u=caf448c4c16cf5e8cbf38ce42&amp;id=242a7b954a',
   mailchimpName: 'tharunshiv',
   mailchimpEmailFieldName: 'MERGE0',
   googleSiteVerification: 'GoogleCode',

@@ -73,7 +73,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: 'https://gatsby-casper.netlify.com',
+        siteUrl: 'https://tharunshiv.com',
       },
     },
     'gatsby-plugin-emotion',
@@ -88,5 +88,25 @@ module.exports = {
         postCssPlugins: [require('postcss-color-function'), require('cssnano')()],
       },
     },
+    {
+      resolve: `gatsby-plugin-disqus`,
+      options: {
+        shortname: `tharunshiv`,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `Tharun Shiv - Blog`,
+        short_name: `TS Blog`,
+        start_url: `/`,
+        background_color: `#0B0E2C`,
+        theme_color: `#a2466c`,
+        display: `standalone`,
+        icon: `src/content/img/icon.png`,
+        cache_busting_mode: 'none',
+      },
+    },
+    `gatsby-plugin-offline`,
   ],
 };
