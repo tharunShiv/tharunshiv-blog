@@ -100,6 +100,7 @@ const IndexPage: React.FC<IndexProps> = props => {
         <html lang={config.lang} />
         <title>{config.title}</title>
         <meta name="description" content={config.description} />
+        <meta name="monetization" content="$ilp.uphold.com/BGywX34ZJBhm">
         <meta property="og:site_name" content={config.title} />
         <meta property="og:type" content="website" />
         <meta property="og:title" content={config.title} />
