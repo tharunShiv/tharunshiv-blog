@@ -16,3 +16,6 @@
 - id: podcast
   description: Listen to podcast that help you enhance your programming
   image: img/speeches-cover.jpg
+- id: tech
+  description: General Tech posts
+  image: img/speeches-cover.jpg
