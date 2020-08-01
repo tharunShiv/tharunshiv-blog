@@ -25,7 +25,7 @@ Tharun Here. I had developed this Stick-it Notes application and hosted it onlin
 
 It is a PWA, meaning, a Progressive Web App. One of the current modern powerful ways to build websites. You can read more about PWA here
 
-https://dev.to/tharunshiv/pwa-why-should-you-use-it-and-not-use-it-447
+https://dev.to/developertharun/pwa-why-should-you-use-it-and-not-use-it-447
 
 **Link to the website**: http://bit.ly/stick-it-notes
 
@@ -39,4 +39,4 @@ Also feel free to share the websites and PWAs which you have published.
 An article by
 Tharun Shiv
 
-> Follow my articles on Dev.to: https://dev.to/tharunshiv
+> Follow my articles on Dev.to: https://dev.to/developertharun

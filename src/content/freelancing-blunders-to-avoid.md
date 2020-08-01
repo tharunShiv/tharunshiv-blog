@@ -8,7 +8,7 @@ date: '2020-01-08T23:46:37.121Z'
 draft: false
 ---
 
-> Follow my articles on Dev.to: https://dev.to/tharunshiv
+> Follow my articles on Dev.to: https://dev.to/developertharun
 
 ## What is Freelancing???
 

@@ -89,4 +89,4 @@ Just choose the appropriate programming language for your application based on h
         Just enter your email below and confirm to subscribe!
         Get a FREE Ebook from me very soon!
 
-> Follow my articles on Dev.to: https://dev.to/tharunshiv
+> Follow my articles on Dev.to: https://dev.to/developertharun

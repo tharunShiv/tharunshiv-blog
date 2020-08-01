@@ -123,7 +123,7 @@ You can notice the **Add Stick-it to Home screen** which will install your PWA t
 
 > **Considering Subscribing to my YouTube Channel if you like the Video content: https://youtube.com/c/developerTharun**
 
-> Follow my articles on Dev.to: https://dev.to/tharunshiv
+> Follow my articles on Dev.to: https://dev.to/developertharun
 
 **Read about 9 ways in which you can build like Facebook! Facebook's new Tech Stack revealed!
 https://tharunshiv.com/new-tech-stack-facebook**

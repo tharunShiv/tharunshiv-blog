@@ -8,7 +8,7 @@ date: '2020-05-21T23:48:37.121Z'
 draft: false
 ---
 
-> Follow my articles on Dev.to: https://dev.to/tharunshiv
+> Follow my articles on Dev.to: https://dev.to/developertharun
 
 # Looking back at the early Facebook
 

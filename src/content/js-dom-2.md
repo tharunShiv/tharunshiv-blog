@@ -66,7 +66,7 @@ You can access and do a lot more magic with the Document Object. We will explore
 
 Thank you for reading 😊
 
-> Follow my articles on Dev.to: https://dev.to/tharunshiv
+> Follow my articles on Dev.to: https://dev.to/developertharun
 
 Written by,
 Tharun Shiv

@@ -39,6 +39,6 @@ _Part 2_
 
 https://tharunshiv.com/js-dom-2
 
-> Follow my articles on Dev.to: https://dev.to/tharunshiv
+> Follow my articles on Dev.to: https://dev.to/developertharun
 
 > Written by Tharun Shiv

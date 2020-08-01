@@ -173,6 +173,6 @@ As the Lazy Evaluation method is used, only those data and those computations th
 
 **I have got the exact place where you can learn these from, ask doubts and also get a Certificate on Completion. Check out this course from Udemy <a href="https://www.udemy.com/course/javascript-tharunshiv/?referralCode=6326CE49CCF4074B11CE" target="_blank">(Click) JavaScript Modern ES6 - 2020 - The Complete Course - Udemy</a>. The first few videos are free on my YouTube Channel. Try them out here: <a href="https://www.youtube.com/playlist?list=PLQTwHWAmj18Y2dfj-8PkIogD9hrBzp4M9">Being a Pro - YouTube - JavaScript Playlist</a> Thank you for reading!**
 
-> Follow my articles on Dev.to: https://dev.to/tharunshiv
+> Follow my articles on Dev.to: https://dev.to/developertharun
 
 > This post was originally written at https://tharunshiv.com

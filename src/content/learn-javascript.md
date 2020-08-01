@@ -42,4 +42,4 @@ Click on the link to enroll yourself in the Udemy Course. **It would be kind of 
 
 https://youtube.com/c/developerTharun
 
-> Follow my articles on Dev.to: https://dev.to/tharunshiv
+> Follow my articles on Dev.to: https://dev.to/developertharun

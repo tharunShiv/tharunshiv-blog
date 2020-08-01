@@ -123,7 +123,7 @@ _output_
 "
 ```
 
-> Follow my articles on Dev.to: https://dev.to/tharunshiv
+> Follow my articles on Dev.to: https://dev.to/developertharun
 
 So these are the main differences between these three that you need to know.
 You can access and do a lot more magic by grabbing the elements. We will explore and do stuff in this series.

@@ -42,4 +42,4 @@ https://tharunshiv.com/learn-javascript
 
 https://youtube.com/c/developerTharun
 
-> Follow my articles on Dev.to: https://dev.to/tharunshiv
+> Follow my articles on Dev.to: https://dev.to/developertharun

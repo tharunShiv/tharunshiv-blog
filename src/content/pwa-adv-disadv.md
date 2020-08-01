@@ -86,4 +86,4 @@ The splash screen that appears when you open the PWA is not customizable out of 
         Just enter your email below and confirm to subscribe!
         Get a FREE Ebook from me very soon!
 
-> Follow my articles on Dev.to: https://dev.to/tharunshiv
+> Follow my articles on Dev.to: https://dev.to/developertharun
