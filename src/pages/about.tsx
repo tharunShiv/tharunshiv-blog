@@ -50,7 +50,7 @@ const About: React.FC = () => (
                 This blog will be a place where I will be sharing my knowledge with the community. Feel free to get in touch with me. 
               </p>
               <p><b>My Written Articles on this blog & Dev.to:</b></p>
-              <p><a href="https://dev.to/developertharun">Dev.to - Developer Tharun/a></p>
+              <p><a href="https://dev.to/developertharun">Dev.to - Developer Tharun</a></p>
               <p><b>My Video Content:</b></p>
               <p><a href="https://www.youtube.com/c/developerTharun">Developer Tharun - YouTube</a></p>
               <p><b>My Courses:</b></p>
