@@ -2,7 +2,7 @@
 layout: post
 title: '21 best productivity tools suggested by the Dev.to community'
 author: Tharun Shiv
-tags: ['web development']
+tags: ['programming']
 image: img/33.png
 date: '2020-08-01T13:40:00.121Z'
 draft: false
