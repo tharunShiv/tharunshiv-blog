@@ -19,3 +19,6 @@
 - id: tech
   description: General Tech posts
   image: img/speeches-cover.jpg
+- id: creative
+  description: Tharun Shiv's Creative posts
+  image: img/speeches-cover.jpg
