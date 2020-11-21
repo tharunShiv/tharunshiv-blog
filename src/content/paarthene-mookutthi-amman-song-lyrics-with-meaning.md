@@ -8,13 +8,21 @@ date: '2020-11-21T18:00:00.121Z'
 draft: false
 ---
 
-## Listen to the song below
+<h3>In this post below</h3>
+
+- [Song Video](#song)
+- [Lyrics in English](#elyrics)
+- [Lyrics in Tamil](#tlyrics)
+- [Meaning - Translation in English](#lyricst)
+- [Credits](#credits)
+- [Watch the movie](#movie)
+
+<h3 id="song">Listen to the song below</h3>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/j0m1mcn7Iro?start=442" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Lyrics<br/>
-
-<tiny>Lyrics in English</tiny>
+<h2 id="elyrics">Lyrics</h2>
+<small>Lyrics in English</small>
 
 **Pallavi**<br/>
 Paarthene uyirin vazhiye<br/>
@@ -79,9 +87,54 @@ _nee yaar yendru sonnai, maname dhaan neeya..._<br/>
 
 **Namashivayam**
 
-## Meaning
+<h2 id="tlyrics">Lyrics</h2>
+<small>Lyrics in Tamil</small>
 
-<tiny>Meaning in English</tiny>
+பார்த்தேனே உயிரின் வழியே<br/>
+யார் கண்ணும் காணா முகமே<br/>
+கல் என்று நினைத்தேன் உனையே<br/>
+நீ யார் என்று சொன்னாய் மனமே தான் நீயா<br/>
+
+எதில் நீ இருந்தாய்<br/>
+எங்கோ மறைந்தாய்<br/>
+உன்னை தேடி அலைந்தேன் எனக்குள்ளே தெரிந்தாய்
+
+இது போதும் எனக்கு வேறு வரங்கள் 100 வேண்டுமா<br/>
+இறைவா இதுதான் நிறைவா
+
+உணர்ந்தேன் உனையே உனையே<br/>
+மறந்தேன் எனையே எனையே
+
+வேதங்கள் மொத்தம் ஓதி<br/>
+யாகங்கள் நித்தம் செய்து<br/>
+பூசிக்கும் பக்தி அதிலும் உன்னைக் காணலாம்
+
+பசி என்று தன்முன் வந்து<br/>
+கை ஏந்தி கேட்கும் போது<br/>
+தன் உணவைத் தந்தால் கூட உன்னைக் காணலாம்
+
+உன்னைக் காண பல கோடி இங்கு வாரி இறைக்கிறார்கள்<br/>
+எளிதாக உன்னைச் சேர இங்கு யாரு நினைக்கிறார்கள்
+
+அலங்காரம் அதில் நீ இல்லை<br/>
+அகங்காரம் மனதில் இல்லை<br/>
+துளி கள்ளம் கபடம் கலந்திடாத அன்பில் இருக்கிறாய்
+
+உணர்ந்தேன் உனையே உனையே<br/>
+மறந்தேன் எனையே எனையே
+
+அகம் நீ ஜகம் நீ<br/>
+அணுவான உலகில் அகலம் நீ<br/>
+எறும்பின் இதய ஒளி நீ<br/>
+களிரின் துதிக்கை கனமும் நீ
+
+ஆயிரம் கை உன்டென்றால் நீ ஒரு கை தர கூடாதா<br/>
+2000 கண் கொண்டாய் உன் ஒரு கண் என்னை பாராதா<br/>
+உன்னில் சரண் அடைந்தேன்<br/>
+இனி நீ கதியே.
+
+<h2 id="lyrics">Lyrics</h2><br/>
+<small>Meaning in English</small>
 
 _Paarthene uyirin vazhiye_<br/>
 _yaar kannum kaanaa mugame_<br/>
@@ -189,7 +242,8 @@ Hereafter you are my strength and support.
 
 ---
 
-**Credits:**
+<h2 id="credits">Credits</h2><br/>
+
 **Song:** Paarthene (Amman Song) - 07:22<br/>
 **Composed, Arranged and Produced By** Girishh Gopalakrishnan<br/>
 **Singer** - Jairam Balasubramanian<br/>
@@ -205,8 +259,9 @@ Hereafter you are my strength and support.
 **Recorded And Produced At** Paramathmaa Studios, Chennai<br/>
 **Musician Co-Ordinator** - Jey<br/>
 **Veena Recorded By** Pramath Kiran<br/>
-
 **Movie:** Mookutthi Amman - Disney+ Hotstar VIP
+
+<h2 id="movie">Watch the movie online</h2><br/>
 
 Watch the movie here: https://www.hotstar.com/in/movies/mookuthi-amman/1260047825
 
