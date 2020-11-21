@@ -79,6 +79,11 @@ const About: React.FC = () => (
                 <a href="https://t.me/tharunshiv">Telegram - Tharun Shiv</a>
               </p>
               <p>
+                <b>Mail me at:</b>
+                <br />
+                <a href="https://tharunshiv.com">asktharun@gmail.com</a>
+              </p>
+              <p>
                 <i>
                   Currently focusing on Podcast content, you can find the <b>Developer Tharun</b>{' '}
                   podcasts on other popular music platforms too, like Google Podcasts, Stitcher,
