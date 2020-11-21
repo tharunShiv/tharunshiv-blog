@@ -144,6 +144,9 @@ _ingu vaari iraikkiraargal_<br/>
 _ezhilaaga unai sera_<br/>
 _ingu yaaru ninaikiraargal_<br/>
 
+People here spend several crores to see you <br/>
+But no one wants to follow the easy way of attaining you <br/>
+
 _Alangaaram adhil nee illai_<br/>
 _ahankaara manadhil illai_<br/>
 _ThuLi kallam kabadam kalandhidaadha_<br/>
@@ -151,7 +154,7 @@ _anbil irukkirai_<br/>
 
 You are not in the decorations<br/>
 and definitely not in evil ego minds<br/>
-but always present in the minds of people who do not even a drop of bad thoughts and with pure love<br>
+but always present in the minds of people who do not even have a drop of bad thoughts and are with pure love<br>
 
 _Unardhen unaiye unaiye_<br/>
 _Marandhen yenaye enaye_
