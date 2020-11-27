@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Paarthene Uyirin Song Lyrics - Mookutthi Amman'
+title: 'Paarthene Uyirin Song Lyrics - Mookutthi Amman - Tamil | English with meaning'
 author: Tharun Shiv
 tags: ['song']
 image: img/mookutthi-amman.png
@@ -17,9 +17,9 @@ draft: false
 - [Credits](#credits)
 - [Watch the movie](#movie)
 
-<h3 id="song">Listen to the song below</h3>
+<h3 id="song">Listen to the video song below</h3>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/j0m1mcn7Iro?start=442" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=EEs4mY7YpTU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h2 id="elyrics">Lyrics</h2>
 <small>Lyrics in English</small>
@@ -220,7 +220,7 @@ _anuvaana ulagin agalam nee_<br/>
 _Erumbin idhaya oli nee_<br/>
 _kaLinrin thudhikkai ganamum nee_<br/>
 
-You are the beginning, You are the Universe,<br/>
+You are the inside ( within ), You are the Universe ( outside ),<br/>
 The breadth of our atom sized Universe.<br/>
 You are even the ant's heartbeat<br/>
 Even the weight of the biggest beast<br/>
