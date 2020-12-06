@@ -19,7 +19,7 @@ draft: false
 
 <h3 id="song">Listen to the video song below</h3>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=EEs4mY7YpTU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EEs4mY7YpTU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h2 id="elyrics">Lyrics</h2>
 <small>Lyrics in English</small>
