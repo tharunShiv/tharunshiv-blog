@@ -8,9 +8,11 @@ date: '2020-04-18T23:46:37.121Z'
 draft: false
 ---
 
-## Click on the link to listen
+### Click to start listening
 
-https://anchor.fm/developertharun/episodes/A-Motivational-Story-of-Kung-Fu-Panda---How-to-face-failures-and-critics-edqpp4/a-a2572qt
+<iframe src="https://anchor.fm/developertharun/embed/episodes/A-Motivational-Story-of-Kung-Fu-Panda---How-to-face-failures-and-critics-edqpp4/a-a2572qt" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<a href="https://anchor.fm/developertharun/episodes/A-Motivational-Story-of-Kung-Fu-Panda---How-to-face-failures-and-critics-edqpp4/a-a2572qt">Click here if you don't see the music player load in a few seconds</a>
 
 ## Intro
 

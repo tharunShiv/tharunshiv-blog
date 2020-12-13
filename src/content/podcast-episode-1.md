@@ -8,9 +8,11 @@ date: '2020-04-13T23:46:37.121Z'
 draft: false
 ---
 
-## Click on the link to listen
+### Click to listen to the podcast
 
-https://open.spotify.com/episode/31wEXf7Icw8C7xEYFYAKj4
+<iframe src="https://anchor.fm/developertharun/embed/episodes/How-to-learn-a-lot-and-keep-going--My-Personal-experience-ednug6/a-a24kgtk" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<a href="https://open.spotify.com/episode/31wEXf7Icw8C7xEYFYAKj4">Click here if you don't see the music player load in a few seconds</a>
 
 ## Intro
 

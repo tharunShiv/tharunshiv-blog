@@ -2,13 +2,17 @@
 layout: post
 title: 'What is AI up to?'
 author: Tharun Shiv
-tags: ['AI']
+tags: ['AI', 'podcast']
 image: img/what-is-ai-upto.png
 date: '2020-01-07T23:46:37.121Z'
 draft: false
 ---
 
 Read the part 1 here: https://tharunshiv.com/ai-is-a-threat
+
+Part 2 Audio:
+
+<iframe src="https://anchor.fm/developertharun/embed/episodes/What-to-expect-from-Artificial-Intelligence--My-perspective-on-it-efhvip/a-a2g4lhn" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 ## Where do you see AI in the future?
 

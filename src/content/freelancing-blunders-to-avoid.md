@@ -2,13 +2,17 @@
 layout: post
 title: '8 Freelancing blunders to avoid'
 author: Tharun Shiv
-tags: ['freelancing']
+tags: ['freelancing', 'podcast']
 image: img/freelancing-blunder.png
 date: '2020-01-08T23:46:37.121Z'
 draft: false
 ---
 
 > Follow my articles on Dev.to: https://dev.to/developertharun
+
+Listen to the Podcast here:
+
+<iframe src="https://anchor.fm/developertharun/embed/episodes/8-mistakes-Freelancers-do--how-to-avoid-it--My-Freelance-Experience---how-much-did-I-charge----Episode-10-ehj001/a-a2rkvge" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 ## What is Freelancing???
 

@@ -2,11 +2,15 @@
 layout: post
 title: 'AI is a threat! Really?'
 author: Tharun Shiv
-tags: ['AI']
+tags: ['AI', 'podcast']
 image: img/ai-a-threat.png
 date: '2020-01-06T23:46:37.121Z'
 draft: false
 ---
+
+Part 1: Audio
+
+<iframe src="https://anchor.fm/developertharun/embed/episodes/Artificial-intelligence-is-a-threat--Really--My-Perspective-on-how-to-use-A-i-constructively-efhusa/a-a2g4ho3" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 > The intelligence exhibited by anything other than Living beings which is equal to or more than the intelligence of the Living being.
 
