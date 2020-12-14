@@ -41,6 +41,21 @@ There could have been several reasons why this could have happened.
 
 Inspite of such a massive service going down, we can notice that services started to work within half an hour to one hour of the service being down. Kudos to every engineer and the Site Reliability Engineer who was behind bringing the services back up for the global usage. If this was brought up incorrectly or temporarily by not estimating the incoming traffic, then this would have caused a second outage due to the rush of traffic as more people would be trying to access Google.
 
+### What do we observe as a User?
+
+1. Things were working fine for a few moments if you were already logged in.
+2. Everyone was facing issues with logging into their account.
+3. Google.com which didn't need a login was working fine.
+4. YouTube was working fine in incognito mode, but showed issues when your account was used.
+5. We can also observe companies using Google OAuth Login face issues.
+
+This boils us down to the problems related to **Google Login**. So the above mentioned problems could have affected just the Google Login service too, and this could have been a Single Point of failure for all the applications and services behind it. Google would definitely confirm this in a while.
+
+Every outage, every failure teaches us more, and we should never fail to get up and rise higher. When Google can fail, it is okay for you as a developer to make mistakes, learn from them.
+
+#googleDown
+#itsOkayGoogle
+
 \__Will keep this post updated with the exact reason as to why Google went down, once Google publishes it officially_ Thank you for reading.
 
 Thank you
