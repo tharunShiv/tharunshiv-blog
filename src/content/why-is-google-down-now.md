@@ -36,7 +36,7 @@ Infact, we can also note that the meme creators, companies started creating meme
 
 <h3 id='three'> What could have caused the outage? </h3>
 
-It is definitely not easy to keep software up and running, there are a lot of highly skilled people who go into maintaining such software. When it comes to the global scale of Google, it takes a lot to keep it up and running 24x7. While the Google Engineers and Site-Reliability Engineers are already doing an amazing job in keepng Google up and running almost all time of the year, somethings like this is prone to happen to anyone, and Google isn't an exception.
+It is definitely not easy to keep software up and running, there are a lot of highly skilled people who go into maintaining such software. When it comes to the global scale of Google, it takes a lot to keep it up and running 24x7. While the Google Engineers and Site-Reliability Engineers are already doing an amazing job in keeping Google up and running almost all time of the year, somethings like this is prone to happen to anyone, and Google isn't an exception.
 
 There could have been several reasons why this could have happened.
 
