@@ -24,7 +24,7 @@ You can see the status of these at: https://www.google.com/appsstatus#hl=en-GB&v
 
 There are several third party websites too, which show the status of websites like the DownDetector. We can observe that as soon as Google Services went down, people started reporting the same on these websites and on Twitter.
 
-Infact, we can also note that the meme creators, companies started creating memes and marketing lines on this and rolled out content on it.
+Infact, we can also note that the meme creators, companies started creating memes and marketing lines on this and rolled out content on it. Companies like Swiggy, DuckDuckGo, 9gags started using this situation quickly via marketing.
 
 ### What could have caused the outage?
 
@@ -38,6 +38,14 @@ There could have been several reasons why this could have happened.
 4. Unfortunately, there could also have been a huge cyber attack, hoping there wasn't one.
 5. There could have been data-corruption or database corruption that could have lead to this staggering.
 6. Bad code pushes usually would not lead to whole Google going down, but we can still consider this one as the last option.
+
+Inspite of such a massive service going down, we can notice that services started to work within half an hour to one hour of the service being down. Kudos to every engineer and the Site Reliability Engineer who was behind bringing the services back up for the global usage. If this was brought up incorrectly or temporarily by not estimating the incoming traffic, then this would have caused a second outage due to the rush of traffic as more people would be trying to access Google.
+
+\__Will keep this post updated with the exact reason as to why Google went down, once Google publishes it officially_ Thank you for reading.
+
+### Memes on Google Down
+
+There are several memes surfacing online
 
 Thank you
 https://www.tharunshiv.com
