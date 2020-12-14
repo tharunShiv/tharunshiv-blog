@@ -4,7 +4,7 @@ title: 'Google Down worldwide | Why is Google Down?'
 author: Tharun Shiv
 tags: ['tech']
 image: img/google-down.png
-date: '2020-14-12T13:48:37.121Z'
+date: '2020-12-14T18:48:37.121Z'
 draft: false
 ---
 
@@ -42,10 +42,6 @@ There could have been several reasons why this could have happened.
 Inspite of such a massive service going down, we can notice that services started to work within half an hour to one hour of the service being down. Kudos to every engineer and the Site Reliability Engineer who was behind bringing the services back up for the global usage. If this was brought up incorrectly or temporarily by not estimating the incoming traffic, then this would have caused a second outage due to the rush of traffic as more people would be trying to access Google.
 
 \__Will keep this post updated with the exact reason as to why Google went down, once Google publishes it officially_ Thank you for reading.
-
-### Memes on Google Down
-
-There are several memes surfacing online
 
 Thank you
 https://www.tharunshiv.com
