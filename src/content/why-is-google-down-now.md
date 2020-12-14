@@ -8,13 +8,21 @@ date: '2020-12-14T18:48:37.121Z'
 draft: false
 ---
 
-### What are people seeing?
+In this Article (Click to skip to that topic):
+
+- [What are people seeing? ](#one)
+- [The services impacted](#two)
+- [What could have caused the outage?](#three)
+- [What do we observe as a User?](#four)
+- [Memes on #GoogleDown](#five)
+
+<h3 id='one'> What are people seeing? </h3>
 
 We can observe that Google went down for a very long time on December 14th evening time. On this occasion, tweeters have taken it to twitter and we can see many people tweet about it. Companies also observed that many of their internal services, including the services and dashboards on production. There are several companies who use Google's popular GSuite for all of their employees, we can also see such companies affected by this outage.
 
 So it is not only a Google Outage, but unofficially an IT Network disruption.
 
-### The services impacted
+<h3 id='two'> The services impacted </h3>
 
 Gmail, Google Calendar, Google Drive, Google Docs, Google Sheets, Google Slides , Google Sites , Google Groups , Google Hangouts , Google Chat , Google Meet , Google Vault , YouTube, Currents , Google Forms, Google Cloud Search , Google Keep , Google Tasks , Google Voice, Google Analytics , App Maker , Google Maps , Blogger , Google Sync for Mobile , Classroom, Admin console
 
@@ -26,7 +34,7 @@ There are several third party websites too, which show the status of websites li
 
 Infact, we can also note that the meme creators, companies started creating memes and marketing lines on this and rolled out content on it. Companies like Swiggy, DuckDuckGo, 9gags started using this situation quickly via marketing.
 
-### What could have caused the outage?
+<h3 id='three'> What could have caused the outage? </h3>
 
 It is definitely not easy to keep software up and running, there are a lot of highly skilled people who go into maintaining such software. When it comes to the global scale of Google, it takes a lot to keep it up and running 24x7. While the Google Engineers and Site-Reliability Engineers are already doing an amazing job in keepng Google up and running almost all time of the year, somethings like this is prone to happen to anyone, and Google isn't an exception.
 
@@ -41,7 +49,7 @@ There could have been several reasons why this could have happened.
 
 Inspite of such a massive service going down, we can notice that services started to work within half an hour to one hour of the service being down. Kudos to every engineer and the Site Reliability Engineer who was behind bringing the services back up for the global usage. If this was brought up incorrectly or temporarily by not estimating the incoming traffic, then this would have caused a second outage due to the rush of traffic as more people would be trying to access Google.
 
-### What do we observe as a User?
+<h3 id='four'> What do we observe as a User? </h3>
 
 1. Things were working fine for a few moments if you were already logged in.
 2. Everyone was facing issues with logging into their account.
@@ -53,10 +61,14 @@ This boils us down to the problems related to **Google Login**. So the above men
 
 Every outage, every failure teaches us more, and we should never fail to get up and rise higher. When Google can fail, it is okay for you as a developer to make mistakes, learn from them.
 
-#googleDown
-#itsOkayGoogle
+<h3 id='five'> Memes on Google Down</h3>
 
-\__Will keep this post updated with the exact reason as to why Google went down, once Google publishes it officially_ Thank you for reading.
+Meme creators are known for their wit and speed. So many of them are still coming up with a variety of hilarious memes on the same. And these can be found on Twitter and Facebook.
+
+\#googleDown
+\#itsOkayGoogle
+
+_Will keep this post updated with the exact reason as to why Google went down, once Google publishes it officially_ Thank you for reading.
 
 Thank you
 https://www.tharunshiv.com
