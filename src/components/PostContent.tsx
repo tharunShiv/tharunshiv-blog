@@ -564,6 +564,7 @@ const PostContent: React.FC<PostContentProps> = ({ htmlAst }) => {
     <PostFullContent className="post-full-content">
       {/* TODO: this will apply the class when rehype-react is published https://github.com/rhysd/rehype-react/pull/11 */}
       <Ast className="post-content" ast={htmlAst} />
+      <a href="https://www.buymeacoffee.com/developertharun" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style={{height: "60px",width: "217px"}} /></a>
     </PostFullContent>
   );
 };

@@ -70,6 +70,8 @@ const Footer: React.FC = () => {
     <footer css={[outer, SiteFooter]}>
       <div css={[inner, SiteFooterContent]}>
         <section className="copyright">
+        <a href="https://www.buymeacoffee.com/developertharun" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style={{height: "60px",width: "217px"}} /></a>
+        <br/>
           <Link to="/">{config.title}</Link> &copy; {new Date().getFullYear()}{' '}
           {config.footer && (
             <Link to="/">
@@ -78,6 +80,7 @@ const Footer: React.FC = () => {
           )}
         </section>
         <SiteFooterNav>
+          
           <Link to="/">Latest Posts</Link>
           {config.facebook && (
             <a href={config.facebook} target="_blank" rel="noopener noreferrer">
