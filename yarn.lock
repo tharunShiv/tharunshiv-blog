@@ -7076,14 +7076,6 @@ gatsby-remark-copy-linked-files@2.1.3:
     probe-image-size "^4.0.0"
     unist-util-visit "^1.3.0"
 
-gatsby-remark-embed-spotify@^2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/gatsby-remark-embed-spotify/-/gatsby-remark-embed-spotify-2.1.1.tgz#666e77e3ef5cfeb98f460041dab25768f3de149a"
-  integrity sha512-q+mRkAHs/p5jois8VWzxEtf8kbUXqe9T2QOMNwngcEgOEhzEGHTLwo7fg5N+kr1IUHlVN+m6MO+Bwo3I2uPAmA==
-  dependencies:
-    babel-runtime "^6.26.0"
-    unist-util-visit "^1.1.3"
-
 gatsby-remark-embed-video@^3.0.10:
   version "3.0.10"
   resolved "https://registry.yarnpkg.com/gatsby-remark-embed-video/-/gatsby-remark-embed-video-3.0.10.tgz#2813199338d27e731783a6f8663477f877e72b73"
@@ -15015,7 +15007,7 @@ unist-util-visit@2.0.2, unist-util-visit@^2.0.0, unist-util-visit@^2.0.1, unist-
     unist-util-is "^4.0.0"
     unist-util-visit-parents "^3.0.0"
 
-unist-util-visit@^1.0.0, unist-util-visit@^1.1.0, unist-util-visit@^1.1.3, unist-util-visit@^1.2.0, unist-util-visit@^1.3.0, unist-util-visit@^1.4.1:
+unist-util-visit@^1.0.0, unist-util-visit@^1.1.0, unist-util-visit@^1.2.0, unist-util-visit@^1.3.0, unist-util-visit@^1.4.1:
   version "1.4.1"
   resolved "https://registry.yarnpkg.com/unist-util-visit/-/unist-util-visit-1.4.1.tgz#4724aaa8486e6ee6e26d7ff3c8685960d560b1e3"
   integrity sha512-AvGNk7Bb//EmJZyhtRUnNMEpId/AZ5Ph/KUpTI09WHQuDZHKovQ1oEv3mfmKpWKtoMzyMC4GLBm1Zy5k12fjIw==

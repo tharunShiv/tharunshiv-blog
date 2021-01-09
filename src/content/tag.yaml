@@ -22,3 +22,6 @@
 - id: creative
   description: Tharun Shiv's Creative posts
   image: img/speeches-cover.jpg
+- id: system-admin
+  description: Posts related to system adminitration
+  image: img/speeches-cover.jpg
