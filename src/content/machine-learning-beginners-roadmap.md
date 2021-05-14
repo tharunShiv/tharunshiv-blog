@@ -14,6 +14,14 @@ draft: false
 
 <iframe src="https://anchor.fm/developertharun/embed/episodes/Roadmap-to-learn-Data-Science--Machine-Learning--How-to-learn-Data-Science--Machine-learning--Resources---Developer-Tharun---Ep--18-ehs4ua/a-a24kbv7" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
+When it comes to Data science, mathematics is the foundation. So, if you want to go far in data science, then there is no skipping of Mathematics. So make sure you get to know the basic algebra, statistics, integral and differencial calculus. Take them slow and learn them at your own pace. Once you are confident with what you have learned, you can look into courses that teach you the working of datascience on paper, like Andrew NG course on Coursera like this one: https://www.coursera.org/learn/machine-learning.
+
+It is not mandatory for you to learn Octave or Matlab, because if you aren't aware there is a easy programming language called 'Python', which you can learn and use to code Machine learning. So focus on picking up the behind the scenes of how machine learning algorithms work.
+
+Then you can move ahead with learning how to use Python to build the models that you have learned. There are a lot of courses on Udemy by Kirill Eremenko and team, Sundog Education, Jose Portilla and others. Take your time and invest yourself with these courses, you will never regret these when you find an internship / job with these knowledge.
+
+Tune into the podcast to know more steps, tips on how to get going with Machine Learning, Data Science, Deep Learning and Artificial Intelligence.
+
 ## Key points:
 
 1. Start by learning Mathematics like Statistics, Regression, Algebra, Calculus.

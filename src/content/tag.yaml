@@ -25,3 +25,6 @@
 - id: system-admin
   description: Posts related to system adminitration
   image: img/speeches-cover.jpg
+- id: communication
+  description: Posts related to communication
+  image: img/speeches-cover.jpg
