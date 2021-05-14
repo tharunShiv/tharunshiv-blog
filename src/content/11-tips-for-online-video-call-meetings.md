@@ -64,8 +64,6 @@ Just because you read about taking pauses, doesn't mean you should use umm and a
 
 Assuming that everyone is on the same page as you is not the smart think. Be aware that before you jump into the main topic, you have everyone that is on call in sync with you. So give them a brief before talking about the actual topic. At the same time, do not use any shortforms in the calls or in groups. Everyone might not be aware as to what those shortforms mean, so it will lead them to lose track who knows, even for the rest of the call, so make sure to stress on using full forms rather than using shortforms.
 
-> The script /etc/rc.local is for use by the system administrator. It is traditionally executed after all the normal system services are started, at the end of the process of switching to a multiuser runlevel. You might use it to start a custom service, for example a server that's installed in /usr/local. Most installations don't need /etc/rc.local, it's provided for the minority of cases where it's needed.
-
 Thank you fo reading, please feel free to checkout other articles.
 https://www.tharunshiv.com
 

@@ -18,6 +18,10 @@ In this episode I talked about how much each one needs to study during their col
 
 Welcome to the series of how to make the most out of engineering, each one of this episode we will be looking at each of the aspects that you need to know and improve at college. every minute is precious with that being said four years of college should not be wasted. Thank you so much for listening to the podcast this is Tharun I hope you enjoy episode.
 
+### Episode - 2
+
+https://www.tharunshiv.com/podcast-make-the-most-ep-2/
+
 Thank you
 https://www.tharunshiv.com
 
