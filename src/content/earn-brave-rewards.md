@@ -49,6 +49,8 @@ Let us look at the steps you need to follow in-order to become a creator:
 -> Select on the content of yours that you want to link with the program
 -> That is it, once the verification is done, you will start earning as visitors visit your page.
 
+> A new-age cryptocurrency : Pi Coins - Mine on your phone : is it the next Bitcoin? Read more about Pi Coins and Cryptocurrency here: https://www.tharunshiv.com/mine-pi
+
 <h2 id="three"> Where to store the earned money? </h2>
 
 You will have to create an Uphold account, which is free, on https://uphold.com/en-us. And then linking uphold account to the Brave Browser and the Brave Creators Program would help you get all the rewards to your Uphold account, from which you can withdraw the rewards.

@@ -101,11 +101,15 @@ Step 4: Click on the _mine_ icon on the right everyday, to continue mining. Invi
 
 <small><i>Source: SubReddit. @Giant2005 @MaikMerra</i></small>
 
+> How to earn DogeCoin, Brave Rewards, Cryptocurrency for free while you just browse the internet? https://www.tharunshiv.com/earn-brave-rewards
+
 ## Your thoughts on Pi Network?
 
 What are your thoughts on the Pi Network? Do you think it is a scam? I am a very new user of this network, so this is all of what I have researched about it. Feel free to put forward your points about this in the discussions below.
 
 > I am no where associated or sponsored by the Pi Network. I am just trying to spread the word and get your perspective on it. Do your research before taking any huge steps.
+
+> How to earn DogeCoin, Brave Rewards, Cryptocurrency for free while you just browse the internet? https://www.tharunshiv.com/earn-brave-rewards
 
 > **Considering Subscribing to my YouTube Channel if you like the video content: https://youtube.com/c/developerTharun** 😊
 
