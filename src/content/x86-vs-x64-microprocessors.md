@@ -8,6 +8,10 @@ date: '2021-10-17T13:17:37.121Z'
 draft: false
 ---
 
+Listen to the episode
+
+<iframe src="https://open.spotify.com/embed/episode/275bf1xKuQ0HbGPrAIVwC4" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
 ## x86 Systems
 
 x86 is a generic name that is used to refer to all Intel processors that were released after the original 8086 or 8088 variant of Intel processors. The variants like 80286, 80386, 80486 so on.. were named using the convention x86, where the 80 is implicit, and x can be replaced with a number conveniently. These are backward compatible systems.
