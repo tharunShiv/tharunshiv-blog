@@ -16,7 +16,7 @@ x86 is a generic name that is used to refer to all Intel processors that were re
 
 ### Registers used in the early x86 systems
 
-    A Register is a tiny memory holding electronic device that is used by the processor to either store instructions, data or address. These are fundamental units that are used when executing a computer instruction to perform a task.
+> A Register is a tiny memory holding electronic device that is used by the processor to either store instructions, data or address. These are fundamental units that are used when executing a computer instruction to perform a task.
 
 x86 systems ranged from 8-bit, 16-bit and then 32bit. What do these bits refer to? They are the highest number of bits in a single register that exists in the system.
 
